@@ -48,6 +48,26 @@ Proyek ini dikembangkan menggunakan Google Colab:
 
 <a href="https://huggingface.co/spaces/piopanjaitan/people_tracking_yolo11_and_faster_rcnn" target="_blank">Demo Here</a>
 
+## 📊 Hasil Perbandingan Visual
+
+Berikut adalah perbandingan hasil deteksi dan pelacakan antara **YOLOv11** dan **Faster R-CNN**.
+
+### 1. Perbandingan Gambar (Static Detection)
+Sistem memberikan *bounding box* dan ID unik pada setiap individu yang terdeteksi.
+
+| YOLOv11 (Fast & Efficient) | Faster R-CNN (High Precision) |
+| :---: | :---: |
+| ![YOLOv11 Detection](https://drive.google.com/uc?export=view&id=11nq1krFvOYlgJDIa_UwxQhgCG037v_9c) | ![Faster R-CNN Detection](https://drive.google.com/uc?export=view&id=1749UfNk6CneJ_LkNLSOQZdbU6e3K-DG7) |
+| *Deteksi cepat dengan YOLOv11* | *Deteksi akurat dengan Faster R-CNN* |
+
+### 2. Perbandingan Video (Real-time Tracking)
+Pelacakan objek secara kontinu untuk menjaga konsistensi ID pada setiap frame.
+
+| Model | Demo Video |
+| :--- | :--- |
+| **YOLOv11** | [▶️ Tonton Video YOLOv11](https://drive.google.com/file/d/1niiNfxYq83k3Izlqt8RKfj2rmtPHbcZm/view?usp=sharing) |
+| **Faster R-CNN** | [▶️ Tonton Video Faster R-CNN](https://drive.google.com/file/d/1Z5RuKV7Kp-qOBhdMdQtMoSfuf2JOLG56/view?usp=sharing) |
+
 ## 📂 Struktur Folder
 ```bash
 People_Tracking_Yolo11_Fast_RCNN/
