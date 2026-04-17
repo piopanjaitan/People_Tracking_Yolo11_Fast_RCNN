@@ -77,6 +77,7 @@ People_Tracking_Yolo11_Fast_RCNN/
 └── examples/
     ├── input_video.mp4
     └── output_result.jpg
+```
 
 ## 👤 Penulis
 Ridwan Pioneer Panjaitan
