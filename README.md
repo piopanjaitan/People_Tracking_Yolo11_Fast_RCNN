@@ -50,6 +50,8 @@ Proyek ini dikembangkan menggunakan Google Colab:
 <a href="https://huggingface.co/spaces/piopanjaitan/people_tracking_yolo11_and_faster_rcnn" target="_blank">Demo Here</a>
 
 
+
+
 ## 📊 Hasil Perbandingan Visual
 
 Berikut adalah perbandingan hasil deteksi dan pelacakan antara **YOLOv11** dan **Faster R-CNN**.
