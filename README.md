@@ -1,8 +1,8 @@
 import os
 
-# Define the content for README.md
-readme_content = """# People Tracking (Yolo11 vs Faster R-CNN)
-Project 2 - Indonesia AI
+# People Tracking (Yolo11 vs Faster R-CNN)
+People Tracking (Yolo11 vs Faster R-CNN)
+Project 2 - Kelompok A (Raden Saleh) - Indonesia AI
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
@@ -24,10 +24,29 @@ Proyek ini bertujuan untuk membandingkan:
 * **Integrasi UI**: Antarmuka interaktif menggunakan **Gradio** untuk memudahkan upload file dan visualisasi hasil.
 * **Output**: Mendukung pemrosesan data dalam format Gambar (`.jpg`, `.png`) dan Video (`.mp4`).
 
+## 💻 Instalasi & Penggunaan
+1. **Clone Repository**:
+   ```bash
+   git clone [https://github.com/piopanjaitan/People_Tracking_Yolo11_Fast_RCNN.git](https://github.com/piopanjaitan/People_Tracking_Yolo11_Fast_RCNN.git)
+   cd People_Tracking_Yolo11_Fast_RCNN
+
+2. **Instalasi Dependency**:
+    ```bash
+    pip install torch torchvision ultralytics gradio opencv-python supervision
+    ```
+
+3. **Menjalankan Proyek**:
+
+   Buka salah satu file notebook di Google Colab atau Jupyter Notebook, lalu jalankan semua sel untuk mengaktifkan UI Gradio di bagian akhir.
+
 ## 📓 Notebook & Resource
 Proyek ini dikembangkan menggunakan Google Colab:
 * **Yolo 11 Tracking**: [Buka di Colab](https://colab.research.google.com/drive/12kvlenxPjWbawyeSDyq_dmP5O_zg-pAq#scrollTo=IU_hECmVLzuz)
 * **Faster R-CNN Tracking**: [Buka di Colab](https://colab.research.google.com/drive/1iSfFe895cwZdtI9UvfM-RqVq91HYSA8I#scrollTo=K6ZJfDqJYLU5)
+
+## 📱 Demo in HuggingFace
+
+<a href="https://huggingface.co/spaces/piopanjaitan/people_tracking_yolo11_and_faster_rcnn" target="_blank">Demo Here</a>
 
 ## 📂 Struktur Folder
 ```bash
