@@ -44,9 +44,11 @@ Proyek ini dikembangkan menggunakan Google Colab:
 * **Yolo 11 Tracking**: [Buka di Colab](https://colab.research.google.com/drive/12kvlenxPjWbawyeSDyq_dmP5O_zg-pAq#scrollTo=IU_hECmVLzuz)
 * **Faster R-CNN Tracking**: [Buka di Colab](https://colab.research.google.com/drive/1iSfFe895cwZdtI9UvfM-RqVq91HYSA8I#scrollTo=K6ZJfDqJYLU5)
 
-## 📱 Demo in HuggingFace
+
+## 🤗 Demo in HuggingFace
 
 <a href="https://huggingface.co/spaces/piopanjaitan/people_tracking_yolo11_and_faster_rcnn" target="_blank">Demo Here</a>
+
 
 ## 📊 Hasil Perbandingan Visual
 
